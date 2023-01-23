@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "710014671455",
+    "project_id": "ontrack-f7736",
+    "storage_bucket": "ontrack-f7736.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710014671455:android:404dd29c30329fb3a219ea",
+        "android_client_info": {
+          "package_name": "com.example.ontrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710014671455-5ni20rasdb8djufakclhcl9v7uqnlenh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3WvivfHyNF1l2RbfemFOf6KAAvK0SqRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710014671455-5ni20rasdb8djufakclhcl9v7uqnlenh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
